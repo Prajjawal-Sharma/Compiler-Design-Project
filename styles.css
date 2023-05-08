@@ -6,6 +6,7 @@
 .navbar{
     position: fixed;
     width: 100%;
+    background: linear-gradient(to top,#1291c3, #00b7ff);
 }
 .header_container{
     background-color: rgb(22, 212, 193);
@@ -64,7 +65,7 @@
 .lalr_btn:hover,
 .slr_btn:hover {
   transform: translateZ(10px);
-  background-color: rgb(22, 212, 193);;
+  background-color: #16d4c1;
   border-color: black;
 }
 
